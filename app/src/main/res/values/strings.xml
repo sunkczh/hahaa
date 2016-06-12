@@ -5,4 +5,5 @@
     <string name="login_username_hint">请输入用户名</string>
     <string name="login_password_hint">请输入密码</string>
     <string name="login_btn">登录</string>
+    <string name="login_btn2">注册</string>
 </resources>
